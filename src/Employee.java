@@ -12,5 +12,8 @@ public class Employee {
 
         Employee e2 = new Employee("Kannan",102);
         System.out.println(e2);
+
+        Employee e3 = new Employee("Rebii",103);
+        System.out.println(e3);
     }
 }
